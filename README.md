@@ -16,12 +16,14 @@ In the other domains the indicators are on different metrics and therefore it is
 • In the remaining two domains, equal weights have been applied. 
 
 transformed data can be found in "File 9  Transformed domain scores"
-![image](https://user-images.githubusercontent.com/71642902/119590957-516c4d00-be08-11eb-81d1-75c8bc13ca73.png)
+
 
 Q2：There are specific weight for each domain, what we need to do is to skip step 3,4,5,6 and use indicators in 2 to calculate IMD in 7?
 (Technique report p21-22)
 The exponentially transformed domain scores are combined using appropriate domain weights to form an overall Index of Multiple Deprivation
+
 ![流程图](https://user-images.githubusercontent.com/71642902/119592065-60ec9580-be0a-11eb-8bb1-b0fd70f4ae99.png)
+
 The weights employed in the construction of the Index of Multiple Deprivation 2019 are shown in the table below. These weights are unchanged since the construction of the Index of Multiple Deprivation 2004 when the Crime Domain was introduced, and the seven current domains established. 
 Table 3.1. Domain weights used to construct the Index of Multiple Deprivation 2019 
 Domain 	Domain weight (%) 

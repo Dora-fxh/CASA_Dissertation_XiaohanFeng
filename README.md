@@ -39,6 +39,10 @@ Q3: If the answer for Q2 is Yes, then what method do you recommend to use, like 
 Q4:There are total 39 dataset needed, but only about 20 is publiced. Using these indicators (and machine learning method) to fit the IMD and then calculate their shapley value to explain the prediction. Would the result be baised?  By the way, how much accuracy do you think is acceptable in the machine learning process?
 
 Q5: if i misunderstood the meaning of the research direction, do it means i need to find the data as what in the literature review part (where it uses data from a survey and use logistic regression to construct their own weight)
+## Research question
+how do the indices from 7 domains of deprivation contribute to the individual and overall values of Index of Multiple Deprivation (IMD) in 2019 for small areas (Lower-layer Super Output Area) across England by the shapley value based on public available data ？
+What hyper-parameter could we adjust to minimize the error when using machine learning mechanism to build the model for IMD?
+
 ## Literature Review
 Young (1985) axiomatizes the Shapley value with three axioms: Efficiency (Pareto optimality PO), Equal Treatment Property (Symmetry), and Marginality.  
  

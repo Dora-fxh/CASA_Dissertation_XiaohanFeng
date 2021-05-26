@@ -36,8 +36,9 @@ we will not need these weight?
 
 Q3: If the answer for Q2 is Yes, then what method do you recommend to use, like deep learning?
 
-Q3:There are total 39 dataset needed, but only about 20 is publiced. Using these indicators (and machine learning method) to fit the IMD and then calculate their shapley value to explain the prediction. Would the result be baised?  By the way, how much accuracy do you think is acceptable in the machine learning process?
+Q4:There are total 39 dataset needed, but only about 20 is publiced. Using these indicators (and machine learning method) to fit the IMD and then calculate their shapley value to explain the prediction. Would the result be baised?  By the way, how much accuracy do you think is acceptable in the machine learning process?
 
+Q5: if i misunderstood the meaning of the research direction, do it means i need to find the data as what in the literature review part (where it uses data from a survey and use logistic regression to construct their own weight)
 ## Literature Review
 Young (1985) axiomatizes the Shapley value with three axioms: Efficiency (Pareto optimality PO), Equal Treatment Property (Symmetry), and Marginality.  
  

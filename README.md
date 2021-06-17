@@ -1,6 +1,8 @@
 # IMD-shapley
 Q1.Since SHAP connects LIME and Shapley Values.  Will we describe the methdology for LIME?
+
 Q2.The dataset for small areas is large. I started the program using TreeSHAP as it is faster than kernelSHAP. But it just broken down the jupyter, i need to restart the kernel and run again. The last time did not break but still running and i did not get a result yet.
+
 Q3.The SHAP seems to need us to choose a model first (linear or descion tree or XGBoost etc.) and then using corresponding SHAP package. You said using shapley value directly in the regression means we need to write all the code ourselves according to the mechanism of KernelSHAP and do not use any package of SHAP directly?
 
 

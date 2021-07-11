@@ -1,5 +1,6 @@
 # IMD-shapley
 7.12 
+
 Q1. I clustered them into ten classes to make comparison with the IMD Decile. The clustering result didnot seem to be great, since the Adjusted Rand index (ARI) is just about 0.316 (The result from 7 domain scores(standardized) is 0.242). They do not show similar patterns.
 
 Q2. The visualization of clustering. use continuous color or discrete one.

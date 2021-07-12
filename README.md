@@ -1,4 +1,13 @@
 # IMD-shapley
+7.12 
+
+Q1. I clustered them into ten classes to make comparison with the IMD Decile. The clustering result didnot seem to be great, since the Adjusted Rand index (ARI) is just about 0.316 (The result from 7 domain scores(standardized) is 0.242). They do not show similar patterns.
+
+Q2. The visualization of clustering. use continuous color or discrete one.
+
+Q3.What another jupyter notebook do: Input is 7 domain ranks and output is IMD rank?
+
+___________________________________________________________________________________________________________________________________
 Q1.Since SHAP connects LIME and Shapley Values.  Will we describe the methdology for LIME?
 
 Q2.The dataset for small areas is large. I started the program using TreeSHAP as it is faster than kernelSHAP. But it just broken down the jupyter, i need to restart the kernel and run again. The last time did not break but still running and i did not get a result yet.
